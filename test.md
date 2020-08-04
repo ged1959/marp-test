@@ -5,8 +5,8 @@ description: description
 theme: uncover
 paginate: true
 _paginate: false
-header: memo
-footer: yoika
+# header: memo
+# footer: yoika
 style: |
     img {
         width: 80%;
